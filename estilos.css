@@ -1,0 +1,106 @@
+body{
+   
+}
+.container{
+    background-color:#FCDA68;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 950px ;
+    width: 2000px;
+}
+body{
+    font-family: "Open Sans";
+}
+header{
+    background-color: #FFFFFF;
+    text-align: right;
+    padding: 25px 0;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration:none;
+    color:#423F40;
+    margin: 0 30px;
+}
+nav a:hover{
+    color:#8E7BEF;
+}
+.encabezado-img{
+    background-image: url(img/portada.png)
+}
+
+
+#img1{
+    margin-top: 25px;
+    margin-right: 50px;
+    display:flex;
+    padding:2100;
+    width:500px;
+    float:right;
+}
+#img2{
+    width:"40px";
+    height: 40px;
+    box-align:"left";
+}
+#img3{
+    width:"40px";
+    height: 40px;
+    box-align:"center";
+}
+#img4{
+    width:"40px";
+    height: 40px;
+    box-align:"right";
+}
+.textocentro{
+    font-size: 90px;
+    font-weight:500px;
+    text-align: left;
+    margin-left: 5px;
+    width: 10px;
+    padding:5%;
+
+}
+#h1{
+    font-size: 90px;
+    font-weight:50px;
+    text-align: left;
+    margin-left: 500px;
+    width: 150px;
+}
+
+#img9{
+    width:"90px";
+    height: 109px;
+    box-align:"left";
+
+}
+#img10{
+    width:"90px";
+    height: 109px;
+    box-align:"left";
+
+}
+#img4{
+    width:"90px";
+    height: 109px;
+    box-align:"left";
+
+}
+#img11{
+    width:"90px";
+    height: 109px;
+    box-align:"left";
+
+}
+#img12{
+    width:"90px";
+    height: 109px;
+    box-align:"left";
+    color: #8E7BEF;
+    text-align:left;
+
+}
+
